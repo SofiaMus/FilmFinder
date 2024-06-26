@@ -48,6 +48,3 @@ Each time the application is run, the database is deleted and recreated with def
 - On the home page, choose a specific genre from the dropdown menu.
 - Click "Filter" to see only the movies in that genre.
 
-## Known Issues
-- **Picture Upload in Edit Form**: There's an issue with the picture upload feature when editing a movie. Selecting a new picture doesn't save correctly and the old picture remains. I'm actively working on a fix. For now, to update a movie's picture, you may need to delete the movie and re-add it with the new picture. Thank you for your patience.
-
