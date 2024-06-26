@@ -1,0 +1,32 @@
+﻿@model IEnumerable<FilmFinder.Models.Movie>
+
+@section title {
+    <h1>Manage Movies</h1>
+}
+
+<form asp-action="Index" method="get" class="text-center">
+    <a asp-controller="Movie" asp-action="AddMovie" class="btn btn-dark">Add New Movie </a>
+</form>
+<h5>See our most movies from highest rating:</h5>
+
+<div style="display: flex; flex-wrap: wrap;">
+    @foreach (var movie in Model)
+    {
+        <div class="card-container">
+            <div class="card card-flip">
+                <div class="card-face">
+
+                    <img src="@Url.Content($"~/images/{movie.PictureName}")" alt="@movie.Name" class="movie-poster" />
+                    <div class="card-body">
+                        <h5 class="card-title">@movie.Name<span>Rating: @(movie.Rating)</span></h5>
+                        <div class="card-buttons">
+                            <a asp-controller="Movie" asp-action="EditMovie" asp-route-id="@movie.Id" class="btn btn-primary">Edit</a>
+                            <a asp-controller="Movie" asp-action="DeleteMovie" asp-route-id="@movie.Id" class="btn btn-danger">Delete</a>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    }
+</div>

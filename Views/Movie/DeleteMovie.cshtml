@@ -1,0 +1,47 @@
+﻿@model FilmFinder.Models.Movie
+
+@section title {
+    <h1>Delete Movie</h1>
+}
+
+<div class="form-container">
+    <form asp-action="DeleteMovieConfirmed">
+        <div class="form-group">
+            <h4>Are you sure you want to delete this movie?</h4>
+        </div>
+
+        <div class="form-group">
+            <img src="@Url.Content($"~/images/{Model.PictureName}")" alt="@Model.Name" class="img-fluid" />
+        </div>
+
+        <div class="form-group">
+            <label asp-for="Name" class="control-label"></label>
+            <input asp-for="Name" class="form-control" readonly />
+        </div>
+
+        <div class="form-group">
+            <label asp-for="Year" class="control-label"></label>
+            <input asp-for="Year" class="form-control" readonly />
+        </div>
+
+        <div class="form-group">
+            <label asp-for="Genre.Name" class="control-label"></label>
+            <input asp-for="Genre.Name" class="form-control" readonly />
+        </div>
+
+        <div class="form-group">
+            <label asp-for="Description" class="control-label"></label>
+            <textarea asp-for="Description" class="form-control" readonly></textarea>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="Rating" class="control-label"></label>
+            <input asp-for="Rating" class="form-control" type="number" readonly />
+        </div>
+
+        <input type="hidden" asp-for="Id" />
+        <button type="submit" class="btn btn-danger">Delete</button>
+        <a asp-action="Index" class="btn btn-secondary">Cancel</a>
+    </form>
+
+</div>

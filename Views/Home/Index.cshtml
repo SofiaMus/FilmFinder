@@ -1,0 +1,41 @@
+﻿@model IEnumerable<FilmFinder.Models.Movie>
+
+@section title {
+    <h1>Movie Catalog</h1>
+}
+<form asp-action="Index" method="get" class="text-center">
+    <label for="genreId">Select Genre:</label>
+    <select id="genreId" name="genreId" class="form-control" style="width: auto; display: inline-block; margin-right: 10px;">
+        <option value="">All Genres</option>
+        @foreach (var genre in ViewBag.Genres)
+        {
+            <option value="@genre.Id">@genre.Name</option>
+        }
+    </select>
+    <button type="submit" class="btn btn-primary">Filter</button>
+</form>
+
+
+    <h5>See our movies from the highest rating:</h5>
+<div style="display: flex; flex-wrap: wrap;">
+    @foreach (var movie in Model)
+    {
+        <div class="card-container">
+            <div class="card card-flip">
+                <div class="card-face">
+                    <img src="@Url.Content($"~/images/{movie.PictureName}")" alt="@movie.Name" class="movie-poster" />
+                    <div class="card-body">
+                        <h5 class="card-title">@movie.Name<span>Rating: @(movie.Rating)</span></h5>
+                    </div>
+                </div>
+                <div class="card-description">
+                    <p class="card-text">
+                        <strong>@movie.Name</strong><br>
+                        <strong>Description:</strong> @movie.Description<br>
+                        <strong>Year:</strong> @movie.Year
+                    </p>
+                </div>
+            </div>
+        </div>
+    }
+</div>
