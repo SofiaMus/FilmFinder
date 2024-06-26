@@ -7,18 +7,17 @@ namespace FilmFinder.Models
     {
         public int Id { get; set; }
 
-        [Display(Name = "Name")]
+        [Display(Name = "Name (required)")]
         [Required(ErrorMessage = " Please enter a name.")]
         [StringLength(100, ErrorMessage = "Name cannot be more than 100 characters long.")]
         public string? Name { get; set; }
 
-        [Required(ErrorMessage = "Please enter a year.")]
+        //[Required(ErrorMessage = "Please enter a year.")]
         [Range(1888, 2024, ErrorMessage = "Year must be between 1888 and 2024.")]
         [Display(Name = "Year")]
         public int? Year { get; set; }
 
-        [Display(Name = "Picture")]
-        [Required(ErrorMessage = "Please choose a picture. ")]
+        [Display(Name = "Picture (required)")]
         [RegularExpression("^.*\\.(jpg|jpeg|png)$", ErrorMessage = "The picture name must end with .jpg, .jpeg, or .png.")]
         public string? PictureName { get; set; }
 
@@ -27,7 +26,7 @@ namespace FilmFinder.Models
         [StringLength(300, ErrorMessage = "Description cannot be more than 300 characters long.")]
         public string? Description { get; set; }
 
-        [Display(Name = "Genre")]
+        [Display(Name = "Genre (required)")]
         [Required(ErrorMessage = "Please select a genre.")]
         [ForeignKey("Genre")]
         public int? GenreId { get; set; }
@@ -35,7 +34,7 @@ namespace FilmFinder.Models
 
         [Required(ErrorMessage = "Please enter a rating.")]
         [Range(1, 10, ErrorMessage = " Rating must be between 1 and 10.")]
-        [Display(Name = "Rating")]
+        [Display(Name = "Rating (required)")]
         public int? Rating { get; set; }
     }
 }

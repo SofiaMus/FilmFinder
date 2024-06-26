@@ -1,323 +1,335 @@
 {
   "Files": [
     {
-      "Id": "D:\\MVCCore\\MVCProject\\FilmFinder\\wwwroot\\images\\0A234B08-9732-4FC8-82DC-065FE7374380.jpeg",
-      "PackagePath": "staticwebassets\\images\\0A234B08-9732-4FC8-82DC-065FE7374380.jpeg"
+      "Id": "C:\\Users\\Admin\\FilmFinder\\wwwroot\\images\\0990c780-0d34-487c-8a0f-12a53a8e5070_Screenshot 2024-06-24 114424.png",
+      "PackagePath": "staticwebassets\\images\\0990c780-0d34-487c-8a0f-12a53a8e5070_Screenshot 2024-06-24 114424.png"
     },
     {
-      "Id": "D:\\MVCCore\\MVCProject\\FilmFinder\\wwwroot\\images\\background.jpg",
+      "Id": "C:\\Users\\Admin\\FilmFinder\\wwwroot\\images\\8bbb5d9c-609e-4d18-83f6-bf9d52abdbb0_images.png",
+      "PackagePath": "staticwebassets\\images\\8bbb5d9c-609e-4d18-83f6-bf9d52abdbb0_images.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\FilmFinder\\wwwroot\\images\\Screenshot 2024-06-24 115422.png",
+      "PackagePath": "staticwebassets\\images\\Screenshot 2024-06-24 115422.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\FilmFinder\\wwwroot\\images\\background.jpg",
       "PackagePath": "staticwebassets\\images\\background.jpg"
     },
     {
-      "Id": "D:\\MVCCore\\MVCProject\\FilmFinder\\wwwroot\\images\\forrest_gump.jpg",
+      "Id": "C:\\Users\\Admin\\FilmFinder\\wwwroot\\images\\default.jpg",
+      "PackagePath": "staticwebassets\\images\\default.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\FilmFinder\\wwwroot\\images\\forrest_gump.jpg",
       "PackagePath": "staticwebassets\\images\\forrest_gump.jpg"
     },
     {
-      "Id": "D:\\MVCCore\\MVCProject\\FilmFinder\\wwwroot\\images\\gladiator.jpg",
+      "Id": "C:\\Users\\Admin\\FilmFinder\\wwwroot\\images\\gladiator.jpg",
       "PackagePath": "staticwebassets\\images\\gladiator.jpg"
     },
     {
-      "Id": "D:\\MVCCore\\MVCProject\\FilmFinder\\wwwroot\\images\\inception.jpg",
+      "Id": "C:\\Users\\Admin\\FilmFinder\\wwwroot\\images\\inception.jpg",
       "PackagePath": "staticwebassets\\images\\inception.jpg"
     },
     {
-      "Id": "D:\\MVCCore\\MVCProject\\FilmFinder\\wwwroot\\images\\interstellar.jpg",
+      "Id": "C:\\Users\\Admin\\FilmFinder\\wwwroot\\images\\interstellar.jpg",
       "PackagePath": "staticwebassets\\images\\interstellar.jpg"
     },
     {
-      "Id": "D:\\MVCCore\\MVCProject\\FilmFinder\\wwwroot\\images\\pulp_fiction.jpg",
+      "Id": "C:\\Users\\Admin\\FilmFinder\\wwwroot\\images\\pulp_fiction.jpg",
       "PackagePath": "staticwebassets\\images\\pulp_fiction.jpg"
     },
     {
-      "Id": "D:\\MVCCore\\MVCProject\\FilmFinder\\wwwroot\\images\\the_dark_knight.jpg",
+      "Id": "C:\\Users\\Admin\\FilmFinder\\wwwroot\\images\\the_dark_knight.jpg",
       "PackagePath": "staticwebassets\\images\\the_dark_knight.jpg"
     },
     {
-      "Id": "D:\\MVCCore\\MVCProject\\FilmFinder\\wwwroot\\images\\the_godfather.jpg",
+      "Id": "C:\\Users\\Admin\\FilmFinder\\wwwroot\\images\\the_godfather.jpg",
       "PackagePath": "staticwebassets\\images\\the_godfather.jpg"
     },
     {
-      "Id": "D:\\MVCCore\\MVCProject\\FilmFinder\\wwwroot\\images\\the_hangover.jpg",
+      "Id": "C:\\Users\\Admin\\FilmFinder\\wwwroot\\images\\the_hangover.jpg",
       "PackagePath": "staticwebassets\\images\\the_hangover.jpg"
     },
     {
-      "Id": "D:\\MVCCore\\MVCProject\\FilmFinder\\wwwroot\\images\\the_matrix.jpg",
+      "Id": "C:\\Users\\Admin\\FilmFinder\\wwwroot\\images\\the_matrix.jpg",
       "PackagePath": "staticwebassets\\images\\the_matrix.jpg"
     },
     {
-      "Id": "D:\\MVCCore\\MVCProject\\FilmFinder\\wwwroot\\images\\the_shawshank_redemption.jpg",
+      "Id": "C:\\Users\\Admin\\FilmFinder\\wwwroot\\images\\the_shawshank_redemption.jpg",
       "PackagePath": "staticwebassets\\images\\the_shawshank_redemption.jpg"
     },
     {
-      "Id": "D:\\MVCCore\\MVCProject\\FilmFinder\\wwwroot\\lib\\bootstrap\\css\\background.css",
+      "Id": "C:\\Users\\Admin\\FilmFinder\\wwwroot\\lib\\bootstrap\\css\\background.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\background.css"
     },
     {
-      "Id": "D:\\MVCCore\\MVCProject\\FilmFinder\\wwwroot\\lib\\bootstrap\\css\\background.css.map",
+      "Id": "C:\\Users\\Admin\\FilmFinder\\wwwroot\\lib\\bootstrap\\css\\background.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\background.css.map"
     },
     {
-      "Id": "D:\\MVCCore\\MVCProject\\FilmFinder\\wwwroot\\lib\\bootstrap\\css\\background.min.css",
+      "Id": "C:\\Users\\Admin\\FilmFinder\\wwwroot\\lib\\bootstrap\\css\\background.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\background.min.css"
     },
     {
-      "Id": "D:\\MVCCore\\MVCProject\\FilmFinder\\wwwroot\\lib\\bootstrap\\css\\background.min.css.map",
+      "Id": "C:\\Users\\Admin\\FilmFinder\\wwwroot\\lib\\bootstrap\\css\\background.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\background.min.css.map"
     },
     {
-      "Id": "D:\\MVCCore\\MVCProject\\FilmFinder\\wwwroot\\lib\\bootstrap\\css\\background.rtl.css",
+      "Id": "C:\\Users\\Admin\\FilmFinder\\wwwroot\\lib\\bootstrap\\css\\background.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\background.rtl.css"
     },
     {
-      "Id": "D:\\MVCCore\\MVCProject\\FilmFinder\\wwwroot\\lib\\bootstrap\\css\\background.rtl.css.map",
+      "Id": "C:\\Users\\Admin\\FilmFinder\\wwwroot\\lib\\bootstrap\\css\\background.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\background.rtl.css.map"
     },
     {
-      "Id": "D:\\MVCCore\\MVCProject\\FilmFinder\\wwwroot\\lib\\bootstrap\\css\\background.rtl.min.css",
+      "Id": "C:\\Users\\Admin\\FilmFinder\\wwwroot\\lib\\bootstrap\\css\\background.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\background.rtl.min.css"
     },
     {
-      "Id": "D:\\MVCCore\\MVCProject\\FilmFinder\\wwwroot\\lib\\bootstrap\\css\\background.rtl.min.css.map",
+      "Id": "C:\\Users\\Admin\\FilmFinder\\wwwroot\\lib\\bootstrap\\css\\background.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\background.rtl.min.css.map"
     },
     {
-      "Id": "D:\\MVCCore\\MVCProject\\FilmFinder\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.css",
+      "Id": "C:\\Users\\Admin\\FilmFinder\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "D:\\MVCCore\\MVCProject\\FilmFinder\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Users\\Admin\\FilmFinder\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "D:\\MVCCore\\MVCProject\\FilmFinder\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Users\\Admin\\FilmFinder\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "D:\\MVCCore\\MVCProject\\FilmFinder\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Users\\Admin\\FilmFinder\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "D:\\MVCCore\\MVCProject\\FilmFinder\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\Users\\Admin\\FilmFinder\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "D:\\MVCCore\\MVCProject\\FilmFinder\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\Users\\Admin\\FilmFinder\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "D:\\MVCCore\\MVCProject\\FilmFinder\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\Users\\Admin\\FilmFinder\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "D:\\MVCCore\\MVCProject\\FilmFinder\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\Users\\Admin\\FilmFinder\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "D:\\MVCCore\\MVCProject\\FilmFinder\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Users\\Admin\\FilmFinder\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "D:\\MVCCore\\MVCProject\\FilmFinder\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Users\\Admin\\FilmFinder\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "D:\\MVCCore\\MVCProject\\FilmFinder\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Users\\Admin\\FilmFinder\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "D:\\MVCCore\\MVCProject\\FilmFinder\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Users\\Admin\\FilmFinder\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "D:\\MVCCore\\MVCProject\\FilmFinder\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\Users\\Admin\\FilmFinder\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "D:\\MVCCore\\MVCProject\\FilmFinder\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\Users\\Admin\\FilmFinder\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "D:\\MVCCore\\MVCProject\\FilmFinder\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\Users\\Admin\\FilmFinder\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "D:\\MVCCore\\MVCProject\\FilmFinder\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\Users\\Admin\\FilmFinder\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "D:\\MVCCore\\MVCProject\\FilmFinder\\wwwroot\\lib\\bootstrap\\css\\bootstrap-styles.css",
+      "Id": "C:\\Users\\Admin\\FilmFinder\\wwwroot\\lib\\bootstrap\\css\\bootstrap-styles.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-styles.css"
     },
     {
-      "Id": "D:\\MVCCore\\MVCProject\\FilmFinder\\wwwroot\\lib\\bootstrap\\css\\bootstrap-styles.css.map",
+      "Id": "C:\\Users\\Admin\\FilmFinder\\wwwroot\\lib\\bootstrap\\css\\bootstrap-styles.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-styles.css.map"
     },
     {
-      "Id": "D:\\MVCCore\\MVCProject\\FilmFinder\\wwwroot\\lib\\bootstrap\\css\\bootstrap-styles.min.css",
+      "Id": "C:\\Users\\Admin\\FilmFinder\\wwwroot\\lib\\bootstrap\\css\\bootstrap-styles.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-styles.min.css"
     },
     {
-      "Id": "D:\\MVCCore\\MVCProject\\FilmFinder\\wwwroot\\lib\\bootstrap\\css\\bootstrap-styles.min.css.map",
+      "Id": "C:\\Users\\Admin\\FilmFinder\\wwwroot\\lib\\bootstrap\\css\\bootstrap-styles.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-styles.min.css.map"
     },
     {
-      "Id": "D:\\MVCCore\\MVCProject\\FilmFinder\\wwwroot\\lib\\bootstrap\\css\\bootstrap-styles.rtl.css",
+      "Id": "C:\\Users\\Admin\\FilmFinder\\wwwroot\\lib\\bootstrap\\css\\bootstrap-styles.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-styles.rtl.css"
     },
     {
-      "Id": "D:\\MVCCore\\MVCProject\\FilmFinder\\wwwroot\\lib\\bootstrap\\css\\bootstrap-styles.rtl.css.map",
+      "Id": "C:\\Users\\Admin\\FilmFinder\\wwwroot\\lib\\bootstrap\\css\\bootstrap-styles.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-styles.rtl.css.map"
     },
     {
-      "Id": "D:\\MVCCore\\MVCProject\\FilmFinder\\wwwroot\\lib\\bootstrap\\css\\bootstrap-styles.rtl.min.css",
+      "Id": "C:\\Users\\Admin\\FilmFinder\\wwwroot\\lib\\bootstrap\\css\\bootstrap-styles.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-styles.rtl.min.css"
     },
     {
-      "Id": "D:\\MVCCore\\MVCProject\\FilmFinder\\wwwroot\\lib\\bootstrap\\css\\bootstrap-styles.rtl.min.css.map",
+      "Id": "C:\\Users\\Admin\\FilmFinder\\wwwroot\\lib\\bootstrap\\css\\bootstrap-styles.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-styles.rtl.min.css.map"
     },
     {
-      "Id": "D:\\MVCCore\\MVCProject\\FilmFinder\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.css",
+      "Id": "C:\\Users\\Admin\\FilmFinder\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "D:\\MVCCore\\MVCProject\\FilmFinder\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\Users\\Admin\\FilmFinder\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "D:\\MVCCore\\MVCProject\\FilmFinder\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\Users\\Admin\\FilmFinder\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "D:\\MVCCore\\MVCProject\\FilmFinder\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\Users\\Admin\\FilmFinder\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "D:\\MVCCore\\MVCProject\\FilmFinder\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\Users\\Admin\\FilmFinder\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "D:\\MVCCore\\MVCProject\\FilmFinder\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\Users\\Admin\\FilmFinder\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "D:\\MVCCore\\MVCProject\\FilmFinder\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\Users\\Admin\\FilmFinder\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "D:\\MVCCore\\MVCProject\\FilmFinder\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\Users\\Admin\\FilmFinder\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "D:\\MVCCore\\MVCProject\\FilmFinder\\wwwroot\\lib\\bootstrap\\css\\bootstrap.css",
+      "Id": "C:\\Users\\Admin\\FilmFinder\\wwwroot\\lib\\bootstrap\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.css"
     },
     {
-      "Id": "D:\\MVCCore\\MVCProject\\FilmFinder\\wwwroot\\lib\\bootstrap\\css\\bootstrap.css.map",
+      "Id": "C:\\Users\\Admin\\FilmFinder\\wwwroot\\lib\\bootstrap\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.css.map"
     },
     {
-      "Id": "D:\\MVCCore\\MVCProject\\FilmFinder\\wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\Admin\\FilmFinder\\wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.min.css"
     },
     {
-      "Id": "D:\\MVCCore\\MVCProject\\FilmFinder\\wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\Admin\\FilmFinder\\wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "D:\\MVCCore\\MVCProject\\FilmFinder\\wwwroot\\lib\\bootstrap\\css\\bootstrap.rtl.css",
+      "Id": "C:\\Users\\Admin\\FilmFinder\\wwwroot\\lib\\bootstrap\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "D:\\MVCCore\\MVCProject\\FilmFinder\\wwwroot\\lib\\bootstrap\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\Users\\Admin\\FilmFinder\\wwwroot\\lib\\bootstrap\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "D:\\MVCCore\\MVCProject\\FilmFinder\\wwwroot\\lib\\bootstrap\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\Users\\Admin\\FilmFinder\\wwwroot\\lib\\bootstrap\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "D:\\MVCCore\\MVCProject\\FilmFinder\\wwwroot\\lib\\bootstrap\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\Users\\Admin\\FilmFinder\\wwwroot\\lib\\bootstrap\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "D:\\MVCCore\\MVCProject\\FilmFinder\\wwwroot\\lib\\bootstrap\\css\\forms.css",
+      "Id": "C:\\Users\\Admin\\FilmFinder\\wwwroot\\lib\\bootstrap\\css\\forms.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\forms.css"
     },
     {
-      "Id": "D:\\MVCCore\\MVCProject\\FilmFinder\\wwwroot\\lib\\bootstrap\\css\\forms.css.map",
+      "Id": "C:\\Users\\Admin\\FilmFinder\\wwwroot\\lib\\bootstrap\\css\\forms.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\forms.css.map"
     },
     {
-      "Id": "D:\\MVCCore\\MVCProject\\FilmFinder\\wwwroot\\lib\\bootstrap\\css\\forms.min.css",
+      "Id": "C:\\Users\\Admin\\FilmFinder\\wwwroot\\lib\\bootstrap\\css\\forms.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\forms.min.css"
     },
     {
-      "Id": "D:\\MVCCore\\MVCProject\\FilmFinder\\wwwroot\\lib\\bootstrap\\css\\forms.min.css.map",
+      "Id": "C:\\Users\\Admin\\FilmFinder\\wwwroot\\lib\\bootstrap\\css\\forms.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\forms.min.css.map"
     },
     {
-      "Id": "D:\\MVCCore\\MVCProject\\FilmFinder\\wwwroot\\lib\\bootstrap\\css\\forms.rtl.css",
+      "Id": "C:\\Users\\Admin\\FilmFinder\\wwwroot\\lib\\bootstrap\\css\\forms.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\forms.rtl.css"
     },
     {
-      "Id": "D:\\MVCCore\\MVCProject\\FilmFinder\\wwwroot\\lib\\bootstrap\\css\\forms.rtl.css.map",
+      "Id": "C:\\Users\\Admin\\FilmFinder\\wwwroot\\lib\\bootstrap\\css\\forms.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\forms.rtl.css.map"
     },
     {
-      "Id": "D:\\MVCCore\\MVCProject\\FilmFinder\\wwwroot\\lib\\bootstrap\\css\\forms.rtl.min.css",
+      "Id": "C:\\Users\\Admin\\FilmFinder\\wwwroot\\lib\\bootstrap\\css\\forms.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\forms.rtl.min.css"
     },
     {
-      "Id": "D:\\MVCCore\\MVCProject\\FilmFinder\\wwwroot\\lib\\bootstrap\\css\\forms.rtl.min.css.map",
+      "Id": "C:\\Users\\Admin\\FilmFinder\\wwwroot\\lib\\bootstrap\\css\\forms.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\forms.rtl.min.css.map"
     },
     {
-      "Id": "D:\\MVCCore\\MVCProject\\FilmFinder\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Users\\Admin\\FilmFinder\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "D:\\MVCCore\\MVCProject\\FilmFinder\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\Users\\Admin\\FilmFinder\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "D:\\MVCCore\\MVCProject\\FilmFinder\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\Admin\\FilmFinder\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "D:\\MVCCore\\MVCProject\\FilmFinder\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Users\\Admin\\FilmFinder\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "D:\\MVCCore\\MVCProject\\FilmFinder\\wwwroot\\lib\\bootstrap\\js\\bootstrap.esm.js",
+      "Id": "C:\\Users\\Admin\\FilmFinder\\wwwroot\\lib\\bootstrap\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "D:\\MVCCore\\MVCProject\\FilmFinder\\wwwroot\\lib\\bootstrap\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\Users\\Admin\\FilmFinder\\wwwroot\\lib\\bootstrap\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "D:\\MVCCore\\MVCProject\\FilmFinder\\wwwroot\\lib\\bootstrap\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\Users\\Admin\\FilmFinder\\wwwroot\\lib\\bootstrap\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "D:\\MVCCore\\MVCProject\\FilmFinder\\wwwroot\\lib\\bootstrap\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\Users\\Admin\\FilmFinder\\wwwroot\\lib\\bootstrap\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "D:\\MVCCore\\MVCProject\\FilmFinder\\wwwroot\\lib\\bootstrap\\js\\bootstrap.js",
+      "Id": "C:\\Users\\Admin\\FilmFinder\\wwwroot\\lib\\bootstrap\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.js"
     },
     {
-      "Id": "D:\\MVCCore\\MVCProject\\FilmFinder\\wwwroot\\lib\\bootstrap\\js\\bootstrap.js.map",
+      "Id": "C:\\Users\\Admin\\FilmFinder\\wwwroot\\lib\\bootstrap\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.js.map"
     },
     {
-      "Id": "D:\\MVCCore\\MVCProject\\FilmFinder\\wwwroot\\lib\\bootstrap\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\Admin\\FilmFinder\\wwwroot\\lib\\bootstrap\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.min.js"
     },
     {
-      "Id": "D:\\MVCCore\\MVCProject\\FilmFinder\\wwwroot\\lib\\bootstrap\\js\\bootstrap.min.js.map",
+      "Id": "C:\\Users\\Admin\\FilmFinder\\wwwroot\\lib\\bootstrap\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.min.js.map"
     },
     {

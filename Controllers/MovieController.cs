@@ -42,42 +42,30 @@ namespace FilmFinder.Controllers
 
 
         [HttpPost]
-        public IActionResult AddMovie(Movie movie,  IFormFile Picture)
+        public IActionResult AddMovie(Movie movie, IFormFile Picture)
         {
-            if (_movieRepository.MovieExists(movie.Name))
-            {
-                ModelState.AddModelError("Name", "A movie with the same name already exists.");
-            }
-
             if (ModelState.IsValid)
             {
                 if (Picture != null && Picture.Length > 0)
                 {
                     var filePath = Path.Combine(_webHostEnvironment.WebRootPath, "images", Picture.FileName);
                     using (var fileStream = new FileStream(filePath, FileMode.Create))
+
                     {
                         Picture.CopyTo(fileStream);
                     }
                     movie.PictureName = Picture.FileName;
-                }
-
-
-                try
-                {
                     _movieRepository.AddMovie(movie);
                     return RedirectToAction(nameof(Index));
-                }
-                catch (Exception ex)
-                {
-                    ModelState.AddModelError("", "Unable to save movie. Please try again.");
+
+
                 }
             }
 
             var genres = _genreRepository.GetGenres();
             ViewBag.Genres = genres;
+
             return View(movie);
-
-
         }
 
 
@@ -104,52 +92,53 @@ namespace FilmFinder.Controllers
         }
 
 
-
         [HttpPost]
-        public IActionResult EditMovie(int id, Movie movie, IFormFile PhotoFile)
+        public async Task<IActionResult> EditMovie(int id, Movie movie, IFormFile PictureName)
         {
             if (id != movie.Id)
             {
-                return NotFound(); 
+                return NotFound();
             }
 
-            ModelState.Remove("PhotoFile");
-            if (ModelState.IsValid) 
-            {
-                try
-                {
-                    var movieInDb = _movieRepository.GetMovieById(id);
-                    if (movieInDb == null)
-                    {
-                        return NotFound();           }
+            ModelState.Remove("PictureName");
 
-                    if (PhotoFile != null && PhotoFile.Length > 0)
+            if (ModelState.IsValid)
+            {
+ 
+                    if (PictureName != null && PictureName.Length > 0)
                     {
-                        var filePath = Path.Combine(_webHostEnvironment.WebRootPath, "images", PhotoFile.FileName);
-                        using (var fileStream = new FileStream(filePath, FileMode.Create))
+                        var imagesPath = Path.Combine(_webHostEnvironment.WebRootPath, "images");
+
+                        if (!Directory.Exists(imagesPath))
                         {
-                            PhotoFile.CopyTo(fileStream);
+                            Directory.CreateDirectory(imagesPath);
                         }
-                        movie.PictureName = PhotoFile.FileName;
+
+                        var uniqueFileName = Guid.NewGuid().ToString() + "_" + Path.GetFileName(PictureName.FileName);
+                        var filePath = Path.Combine(imagesPath, uniqueFileName);
+
+                        using (var stream = new FileStream(filePath, FileMode.Create))
+                        {
+                            await PictureName.CopyToAsync(stream);
+                        }
+                        movie.PictureName = uniqueFileName;
                     }
                     else
                     {
-                        movie.PictureName = movieInDb.PictureName;
+
+                        movie.PictureName = _movieRepository.GetMovieById(id).PictureName;
                     }
 
                     _movieRepository.UpdateMovie(id, movie);
-                    return RedirectToAction(nameof(Index));
-                }
-                catch (Exception ex)
-                {
 
-                    Console.WriteLine($"Error while updating movie: {ex.Message}");
-                    ModelState.AddModelError("", "An error occurred while updating the movie. Please try again.");
-                }
+                   
+                    return RedirectToAction(nameof(Index));
+
             }
 
             var genres = _genreRepository.GetGenres();
             ViewBag.Genres = genres;
+
             return View(movie);
         }
 

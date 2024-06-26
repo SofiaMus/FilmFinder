@@ -2577,11 +2577,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\MVCCore\\MVCProject\\FilmFinder\\FilmFinder.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\FilmFinder\\FilmFinder.csproj",
       "projectName": "FilmFinder",
-      "projectPath": "D:\\MVCCore\\MVCProject\\FilmFinder\\FilmFinder.csproj",
+      "projectPath": "C:\\Users\\Admin\\FilmFinder\\FilmFinder.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\MVCCore\\MVCProject\\FilmFinder\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\FilmFinder\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

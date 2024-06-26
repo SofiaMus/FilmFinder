@@ -9,43 +9,43 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = FilmFinder
 build_property.RootNamespace = FilmFinder
-build_property.ProjectDir = D:\MVCCore\MVCProject\FilmFinder\
+build_property.ProjectDir = C:\Users\Admin\FilmFinder\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\MVCCore\MVCProject\FilmFinder
+build_property.MSBuildProjectDirectory = C:\Users\Admin\FilmFinder
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/MVCCore/MVCProject/FilmFinder/Views/Home/Index.cshtml]
+[C:/Users/Admin/FilmFinder/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/MVCCore/MVCProject/FilmFinder/Views/Movie/AddMovie.cshtml]
+[C:/Users/Admin/FilmFinder/Views/Movie/AddMovie.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVcQWRkTW92aWUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/MVCCore/MVCProject/FilmFinder/Views/Movie/DeleteMovie.cshtml]
+[C:/Users/Admin/FilmFinder/Views/Movie/DeleteMovie.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVcRGVsZXRlTW92aWUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/MVCCore/MVCProject/FilmFinder/Views/Movie/EditMovie.cshtml]
+[C:/Users/Admin/FilmFinder/Views/Movie/EditMovie.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVcRWRpdE1vdmllLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/MVCCore/MVCProject/FilmFinder/Views/Movie/Index.cshtml]
+[C:/Users/Admin/FilmFinder/Views/Movie/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/MVCCore/MVCProject/FilmFinder/Views/Shared/_Layout.cshtml]
+[C:/Users/Admin/FilmFinder/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/MVCCore/MVCProject/FilmFinder/Views/_ViewImports.cshtml]
+[C:/Users/Admin/FilmFinder/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/MVCCore/MVCProject/FilmFinder/Views/_ViewStart.cshtml]
+[C:/Users/Admin/FilmFinder/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
