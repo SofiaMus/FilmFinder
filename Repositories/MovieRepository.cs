@@ -18,9 +18,9 @@ namespace FilmFinder.Repositories
             return _context.Movies!;
         }
 
-        public void AddMovie(Movie animal)
+        public void AddMovie(Movie movie)
         {
-            _context.Movies!.Add(animal);
+            _context.Movies!.Add(movie);
             _context.SaveChanges();
         }
 
