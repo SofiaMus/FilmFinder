@@ -55,11 +55,11 @@ namespace FilmFinder.Controllers
                         Picture.CopyTo(fileStream);
                     }
                     movie.PictureName = Picture.FileName;
-                    _movieRepository.AddMovie(movie);
-                    return RedirectToAction(nameof(Index));
+                _movieRepository.AddMovie(movie);
+                return RedirectToAction(nameof(Index));
 
 
-                }
+            }
             }
 
             var genres = _genreRepository.GetGenres();

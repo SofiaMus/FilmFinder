@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "KePypCfJFdcVZwoDcuVExOZpc9sm0G9ATaFPqKxjFqk=",
+  "Hash": "xO6Ql1KWf6e3yBUYwyw4gri0yGykS66cSp06XQnfCWk=",
   "Source": "FilmFinder",
   "BasePath": "_content/FilmFinder",
   "Mode": "Default",
@@ -34,6 +34,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\0990c780-0d34-487c-8a0f-12a53a8e5070_Screenshot 2024-06-24 114424.png"
+    },
+    {
+      "Identity": "C:\\Users\\Admin\\FilmFinder\\wwwroot\\images\\23.abstract-technology-background-circuit-board-html-code-d-illustration-blue-technology-background-vector-innovation-science-105501221.jpg",
+      "SourceId": "FilmFinder",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Admin\\FilmFinder\\wwwroot\\",
+      "BasePath": "_content/FilmFinder",
+      "RelativePath": "images/23.abstract-technology-background-circuit-board-html-code-d-illustration-blue-technology-background-vector-innovation-science-105501221.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\23.abstract-technology-background-circuit-board-html-code-d-illustration-blue-technology-background-vector-innovation-science-105501221.jpg"
     },
     {
       "Identity": "C:\\Users\\Admin\\FilmFinder\\wwwroot\\images\\8bbb5d9c-609e-4d18-83f6-bf9d52abdbb0_images.png",
@@ -72,6 +91,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\background.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Admin\\FilmFinder\\wwwroot\\images\\c2e111d9-fa0f-4d24-bd3d-bd644e867f4a_Screenshot 2024-06-24 110556.png",
+      "SourceId": "FilmFinder",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Admin\\FilmFinder\\wwwroot\\",
+      "BasePath": "_content/FilmFinder",
+      "RelativePath": "images/c2e111d9-fa0f-4d24-bd3d-bd644e867f4a_Screenshot 2024-06-24 110556.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\c2e111d9-fa0f-4d24-bd3d-bd644e867f4a_Screenshot 2024-06-24 110556.png"
     },
     {
       "Identity": "C:\\Users\\Admin\\FilmFinder\\wwwroot\\images\\default.jpg",
